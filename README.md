@@ -5,3 +5,6 @@ Contains a basic user interface, event listeners/handlers for UI, fragments, jet
 
 Handles positive/negative numbers
 +,-,*,/, % modulus and square root operations
+
+
+![image](https://github.com/AshleyJM-k/Conversion/blob/main/Images/Value.png)
