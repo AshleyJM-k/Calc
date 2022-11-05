@@ -7,4 +7,4 @@ Handles positive/negative numbers
 +,-,*,/, % modulus and square root operations
 
 
-![image](https://github.com/AshleyJM-k/Conversion/blob/main/Images/Value.png)
+![image](https://github.com/AshleyJM-k/Calc/blob/main/Images/Calc.png)
