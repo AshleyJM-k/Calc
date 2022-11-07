@@ -1,5 +1,5 @@
 # Calc
-A Kotlin standard calculator. 
+A Kotlin standard calculator created on Android Studio.
 
 Contains a basic user interface, event listeners/handlers for UI, fragments, jetpack and orientation changes for seamless handle rotations.
 
