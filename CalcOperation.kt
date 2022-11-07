@@ -5,7 +5,7 @@ sealed class CalcOperation(val symbol: String) {
     object Subtract: CalcOperation(symbol = "-")
     object Multiply: CalcOperation(symbol = "*")
     object Divide: CalcOperation(symbol = "/")
-    //object Modulus: CalcOperation(symbol = "%")
-    //object SquareRoot: CalcOperation(symbol = "^")
+    object Modulus: CalcOperation(symbol = "%")
+    object SquareRoot: CalcOperation(symbol = "X2")
 }
 
